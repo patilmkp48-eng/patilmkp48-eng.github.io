@@ -153,3 +153,9 @@ google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 vidoomy.com, 8953515, RESELLER
 toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
 onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
